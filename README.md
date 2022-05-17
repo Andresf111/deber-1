@@ -1,4 +1,4 @@
-OBJETIVOS oooo
+OBJETIVOS 
 
 Utilizar notación científica, la potencia de diez para representar cantidades.
 
@@ -8,7 +8,7 @@ Comprender las diferencias entre la notación científica e ingeniería
 
 Conocer las caracteristicas de los conductores,aislantes y semiconductore
 
-Introducción
+MARCO TEÓRICO 
 
 La tecnología ha cambiado demasiado la forma en que realizamos diferentes actividades, ahora disponemos dispositivos y sistemas electrónicos avanzados.
 
